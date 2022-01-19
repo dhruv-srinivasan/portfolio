@@ -7,6 +7,8 @@ To access my resume, click on the <b>"Resume 10-28-2021"</b> File
 <br>
 To access my portfolio, click on the <b>"Projects 1-19-2022"</b> File.
 <br>
+To access my completed/in progress courses, click on the <b>"Transcript 1-4-2022"</b> File.
+<br>
 <br>
 <b> The date at the end of the file name indicates when it was last updated (m-d-y). </b>
 # Additional Links
