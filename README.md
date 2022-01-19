@@ -3,11 +3,11 @@ Hi! I'm Dhruv, a mechanical engineering major at the University of Maryland, Col
 <br>
 Feel free to reach out to me at dhruvs@live.com
 # Engineering Portfolio
-To access my resume, click on the <b>"Resume 10-28-2021"</b> File
+To access my resume, open the <b>"Resume 10-28-2021"</b> File
 <br>
-To access my portfolio, click on the <b>"Projects 1-19-2022"</b> File.
+To access my portfolio, open the <b>"Projects 1-19-2022"</b> File.
 <br>
-To access my completed/in progress courses, click on the <b>"Transcript 1-4-2022"</b> File.
+To access my completed/in progress courses, open the <b>"Transcript 1-4-2022"</b> File.
 <br>
 <br>
 <b> The date at the end of the file name indicates when it was last updated (m-d-y). </b>
