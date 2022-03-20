@@ -1,5 +1,5 @@
 # Intro
-Hi! I'm Dhruv, a mechanical engineering major at the University of Maryland, College Park. The purpose of this portfolio is to represent the projects I've undertaken and the courses I've completed to support my experience outlined in my resume. 
+Hi! I'm Dhruv, a mechanical engineering major and physics student at the University of Maryland, College Park. The purpose of this portfolio is to represent the projects I've undertaken and the courses I've completed to support the experiences outlined in my resume. 
 <br>
 Feel free to reach out to me at dhruvs@live.com
 # Engineering Portfolio
