@@ -3,7 +3,7 @@ Hi! I'm Dhruv, a mechanical engineering and physics student at the University of
 <br>
 Feel free to reach out to me at dhruvs@live.com
 # Engineering Portfolio
-To access my resume, open the <b>"04-11-2022 resume"</b> File
+To access my resume, open the <b>"04-12-2022 resume"</b> File
 <br>
 To access my portfolio, open the <b>"Project Portfolio.pdf"</b> File.
 <br>
