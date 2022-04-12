@@ -10,7 +10,7 @@ To access my portfolio, open the <b>"Projects (1)"</b> File.
 To access my completed/in progress courses, open the <b>"Transcript 1-4-2022"</b> File.
 <br>
 <br>
-<b> The date at the end of the file name indicates when it was last updated (m-d-y). </b>
+<b> The date in each file name indicates when it was last updated (m-d-y). </b>
 # Additional Links
 <a href="https://www.linkedin.com/in/dhruvsrinivasan/">Linkedin</a>
 <br>
