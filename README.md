@@ -5,7 +5,7 @@ Feel free to reach out to me at dhruvs@live.com
 # Engineering Portfolio
 To access my resume, open the <b>"04-12-2022 resume"</b> File
 <br>
-To access my portfolio, open the <b>"Projects (1)f"</b> File.
+To access my portfolio, open the <b>"Projects (1)"</b> File.
 <br>
 To access my completed/in progress courses, open the <b>"Transcript 1-4-2022"</b> File.
 <br>
