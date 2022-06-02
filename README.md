@@ -1,7 +1,16 @@
-# Intro
-Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park. The purpose of this portfolio is to represent the projects I've undertaken and the courses I've completed to support the experiences outlined in my resume. 
-<br>
-Feel free to reach out to me at dhruvs@live.com
+Hi 👋 My name is Dhruv Srinivasan
+=================================
+
+Mechanical Engineering and Physics Student @ UMD
+------------------------------------------------
+
+Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park. The purpose of this portfolio is to represent the projects I've undertaken and the courses I've completed to support the experiences outlined in my resume.
+
+*   🌍  I'm based in Maryland
+*   ✉️  You can contact me at [dhruvs@live.com](mailto:dhruvs@live.com)
+*   🚀  I'm currently working on [these projects!](http://https://github.com/dhruv-srinivasan/portfolio/blob/main/Projects%20(1).pdf)
+*   🧠  I'm learning Quantum Computing, Tensorflow, National Instruments hardware, PCB design Skills<p align="left">
+                    
 # Engineering Portfolio
 To access my resume, open the <b>"04-12-2022 resume"</b> File
 <br>
