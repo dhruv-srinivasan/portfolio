@@ -12,11 +12,11 @@ Hi! I'm Dhruv, a mechanical engineering and physics student at the University of
 *   🧠  I'm learning Quantum Computing, Tensorflow, National Instruments hardware, PCB design Skills<p align="left">
                     
 # Engineering Portfolio
-To access my resume, open the <b>"04-12-2022 resume"</b> File
+To access my resume, open the <b>"04-12-2022 resume"</b> File.
 <br>
 To access my portfolio, open the <b>"Projects (1)"</b> File.
 <br>
-To access my completed/in progress courses, open the <b>"Transcript 1-4-2022"</b> File.
+To access my completed/in progress courses, open the <b>"Transcript"</b> File.
 <br>
 <br>
 <b> The date in each file name indicates when it was last updated (m-d-y). </b>
