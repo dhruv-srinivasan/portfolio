@@ -10,7 +10,7 @@ Hi! I'm Dhruv, a mechanical engineering and physics student at the University of
 *   🚀  I'm currently working on [these projects!](https://github.com/dhruv-srinivasan/portfolio/blob/main/Projects.pdf)
 *   🧠  I'm learning Quantum Computing, Tensorflow, National Instruments hardware, PCB design Skills<p align="left">
                     
-# Engineering Portfolio
+# Technical Portfolio
 To access my resume, open the <b>"Dhruv_Resume"</b> File.
 <br>
 To access my portfolio, open the <b>"Projects"</b> File.
