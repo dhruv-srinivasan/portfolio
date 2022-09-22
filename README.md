@@ -8,7 +8,7 @@ Hi! I'm Dhruv, a mechanical engineering and physics student at the University of
 
 *   🌍  I'm based in Maryland
 *   ✉️  You can contact me at [dhruvs@live.com](mailto:dhruvs@live.com)
-*   🚀  I'm currently working on [these projects!](http://https://github.com/dhruv-srinivasan/portfolio/blob/main/Projects%20(1).pdf)
+*   🚀  I'm currently working on [these projects!](https://github.com/dhruv-srinivasan/portfolio/blob/main/Projects.pdf)
 *   🧠  I'm learning Quantum Computing, Tensorflow, National Instruments hardware, PCB design Skills<p align="left">
                     
 # Engineering Portfolio
