@@ -1,8 +1,7 @@
 Hi 👋 My name is Dhruv Srinivasan
 =================================
 
-Mechanical Engineering and Physics Student @ UMD
-------------------------------------------------
+# Mechanical Engineering and Physics Student @ UMD
 
 Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park. The purpose of this portfolio is to represent the projects I've undertaken and the courses I've completed to support the experiences outlined in my resume.
 
