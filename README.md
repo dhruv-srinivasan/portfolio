@@ -11,7 +11,7 @@ Hi! I'm Dhruv, a mechanical engineering and physics student at the University of
 *   🧠  I'm learning Quantum Computing, Tensorflow, National Instruments hardware, PCB design Skills<p align="left">
                     
 # Technical Portfolio
-To access my resume, open the <b>"Dhruv_Resume"</b> File.
+To access my resume, open the <b>"Dhruv_ResumeM"</b> File.
 <br>
 To access my portfolio, open the <b>"Projects"</b> File.
 <br>
