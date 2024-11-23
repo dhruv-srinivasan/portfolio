@@ -19,6 +19,4 @@ To access my portfolio, open the <b>"Projects"</b> File.
 # Additional Links
 <a href="https://www.linkedin.com/in/dhruvsrinivasan/">Linkedin</a>
 <br>
-<a href="https://clark-umd-csm.symplicity.com/profiles/dhruv">Careers4Engineers Profile</a>
-<br>
-<a href="https://www.youtube.com/channel/UCiiELWg_R42HaXaLk8FlMOw">Youtube Channel</a>
+<a href="https://www.youtube.com/channel/UCiiELWg_R42HaXaLk8FlMOw">Youtube Channel</a> Musical Performances, Recordings, and Tutorial Videos.
