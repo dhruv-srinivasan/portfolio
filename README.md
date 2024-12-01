@@ -1,7 +1,7 @@
 Hi 👋 My name is Dhruv Srinivasan
 =================================
 
-# Mechanical Engineering and Physics Student @ UMD
+# Intro
 
 Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park.
 *   🌍  I'm based in Maryland
