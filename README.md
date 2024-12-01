@@ -1,9 +1,9 @@
-Hi 👋 My name is Dhruv Srinivasan
+Welcome!
 =================================
 
-# Intro
+# Hi 👋 My name is Dhruv Srinivasan (he/him)
 
-Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park.
+I'm a mechanical engineering and physics student at the University of Maryland, College Park.
 *   🌍  I'm based in Maryland
 *   ✉️  You can contact me at [dhruvs@terpmail.umd.edu](mailto:dhruvs@terpmail.umd.edu)
 *   🚀  <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">These are some of my projects</a>!
