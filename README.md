@@ -3,20 +3,16 @@ Hi 👋 My name is Dhruv Srinivasan
 
 # Mechanical Engineering and Physics Student @ UMD
 
-Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park. The purpose of this portfolio is to represent the projects I've undertaken and the courses I've completed to support the experiences outlined in my resume.
-
+Hi! I'm Dhruv, a mechanical engineering and physics student at the University of Maryland, College Park.
 *   🌍  I'm based in Maryland
-*   ✉️  You can contact me at [dhruvs@live.com](mailto:dhruvs@live.com)
-*   🚀  I'm currently working on [these projects!](https://github.com/dhruv-srinivasan/portfolio/blob/main/Projects.pdf)
-*   🧠  I'm working on quantum nanophotonic devices at the FloQuET Gropup at the University of Maryland <p align="left">
+*   ✉️  You can contact me at [dhruvs@terpmail.umd.edu](mailto:dhruvs@terpmail.umd.edu)
+*   🚀  <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">These are some of my projects</a>!
+*   🧠  I'm currently working on nanophotonics, digital quantum computing, and topological photonics at the <a href="floquet.umd.edu">FloQuET Group</a> at the University of Maryland <p align="left">
+*   🥁  Checkout some of my music, podcasts, and tutorial videos in either my <a href="https://www.youtube.com/channel/UCiiELWg_R42HaXaLk8FlMOw">Youtube Channel</a>  or <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">Portfolio</a>
                     
 # Technical Portfolio
-To access my resume, open the <b>"Dhruv__Resume_8-4-2023.pdf"</b> File.
+To access my resume, head to my <a href="https://www.linkedin.com/in/dhruvsrinivasan/">Linkedin</a> page
 <br>
-To access my portfolio, open the <b>"Projects"</b> File.
+To access my portfolio, click <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">this link</a>
 <br>
 <b> The description of each file name indicates when it was last updated (m/d/y). </b>
-# Additional Links
-<a href="https://www.linkedin.com/in/dhruvsrinivasan/">Linkedin</a>
-<br>
-<a href="https://www.youtube.com/channel/UCiiELWg_R42HaXaLk8FlMOw">Youtube Channel</a> Musical Performances, Recordings, and Tutorial Videos.
