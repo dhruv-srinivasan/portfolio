@@ -7,7 +7,7 @@ Hi! I'm Dhruv, a mechanical engineering and physics student at the University of
 *   🌍  I'm based in Maryland
 *   ✉️  You can contact me at [dhruvs@terpmail.umd.edu](mailto:dhruvs@terpmail.umd.edu)
 *   🚀  <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">These are some of my projects</a>!
-*   🧠  I'm currently working on nanophotonics, digital quantum computing, and topological photonics at the <a href="floquet.umd.edu">FloQuET Group</a> at the University of Maryland <p align="left">
+*   🧠  I'm currently working on nanophotonics, digital quantum computing, and topological photonics at the <a href="https://floquet.umd.edu">FloQuET Group</a> at the University of Maryland <p align="left">
 *   🥁  Checkout some of my music, podcasts, and tutorial videos in either my <a href="https://www.youtube.com/channel/UCiiELWg_R42HaXaLk8FlMOw">Youtube Channel</a>  or <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">Portfolio</a>
                     
 # Technical Portfolio
