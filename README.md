@@ -16,4 +16,3 @@ To go to my resume, head to my <a href="https://www.linkedin.com/in/dhruvsriniva
 To go to my portfolio, click <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">this link</a>
 <br>
 To go to my YouTube channel, click <a href="https://docs.google.com/presentation/d/1Op7porjqSkaKdfZyw0RtuvXayPVzhrUFXL-kFF0R-0U/edit?usp=sharing">this link</a>
-<b> The description of each file name indicates when it was last updated (m/d/y). </b>
